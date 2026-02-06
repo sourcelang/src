@@ -1,6 +1,5 @@
 # src
-## IN DEVELOPMENT
-The SRC programming language, a superset of C
+The SRC programming language, a superset of C, memory safe by default, this is still in development so lots of features coming...
 
 # Installation
 
